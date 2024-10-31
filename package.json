@@ -6,7 +6,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Your Name",
+  "license": "MIT45",
+  "description": "A custom module with a slightly modified MIT license",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixxzr/custom-module2.git"
+  }
 }
